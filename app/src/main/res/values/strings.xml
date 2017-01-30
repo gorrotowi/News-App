@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News feed</string>
+    <string name="no_data_msg">No data available, try again :)</string>
+    <string name="image_item_news">image item news</string>
+    <string name="error_networkstatus_no_connected">Please, check your status connection\nnetwork and try again</string>
+    <string name="empty_txt_message">No data available, try again :)</string>
+</resources>
